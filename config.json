@@ -1,5 +1,5 @@
 {
-  "mongoose": "+mongodb+srv://A7dELmDCK9eSPCk:A7dELmDCK9eSPCk@cluster0.noqg7.mongodb.net/Data",
+  "mongoose": "idk",
   "prefix": "b!",
   "8ball": "🎱"
 }
